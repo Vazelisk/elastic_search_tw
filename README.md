@@ -1,4 +1,5 @@
-Небольшой проекик на `ElasticSearch`, запущенный в контейнере и испольющий одноименную библиотеку в питоне.
+Small project on `ElasticSearch`. ES is deployed in Docker Container and use same python library.
 
-В БД хранятся твиты, их язык, автор, различные метаданные и искуственно созданный индекс кластера.
-Из особенностей можно выделить наличие мультиязычного поиска в морфологическим анализатором и примеры запросов.
+In DB are stores tweets, their language, author, metadata and artificially calculated cluster index.
+Multilanguage search with morphological analyzer is available. 
+All necessary examples are given.
